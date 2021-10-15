@@ -1,0 +1,15 @@
+<!doctype HTML>
+<html>
+<head>
+     <title> Falso aemet </title>
+<body>
+ <form method ="Get" action ="http://www.aemet.es/es/buscador">
+    ¿Donde quieres buscar?<input type ="text" name="str">
+      <input type="submit" value = "Enviar"/>
+        
+
+
+</form>
+</body>
+</head>
+</html>
